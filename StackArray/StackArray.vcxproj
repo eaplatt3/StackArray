@@ -115,11 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Source Code - Data Files for students\Source Code - Data Files for students\Chapter 7 Source Code\Ch7_StackAsArray\testProgStack.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Source Code - Data Files for students\Source Code - Data Files for students\Chapter 7 Source Code\Ch7_StackAsArray\myStack.h" />
-    <ClInclude Include="..\..\..\..\Documents\Source Code - Data Files for students\Source Code - Data Files for students\Chapter 7 Source Code\Ch7_StackAsArray\stackADT.h" />
+    <ClInclude Include="arrayStack.h" />
+    <ClInclude Include="stackArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
