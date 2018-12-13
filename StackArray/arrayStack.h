@@ -1,5 +1,5 @@
 #pragma once
-//Header file: myStack.h
+//Header file: arrayStack.h
 
 #ifndef H_StackType
 #define H_StackType

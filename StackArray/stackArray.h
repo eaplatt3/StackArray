@@ -1,5 +1,5 @@
 #pragma once
-//Header file: stackADT.h
+//Header file: stackArray.h
 
 #ifndef H_StackArray
 #define H_StackArray
